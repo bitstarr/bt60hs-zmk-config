@@ -33,7 +33,7 @@
 				&trans  &none  &kp UP  &none  &none  &none  &none  &none  &kp PG_UP  &none  &kp PSCRN  &none  &none  &reset
 				&none &kp LEFT &kp DOWN &kp RIGHT &none  &none  &none  &kp HOME  &kp PG_DN  &kp END  &none  &none  &bootloader
 				&trans  &kp C_PREV  &kp C_PLAY  &kp C_NEXT  &kp C_VOL_DN  &kp C_MUTE  &kp C_VOL_UP  &none  &none  &kp INS  &kp DEL  &trans
-				&trans  &trans  &trans   &trans   &trans  &trans  &kc K_CMENU  &trans
+				&trans  &trans  &trans   &trans   &trans  &trans  &kp K_CMENU  &trans
 			>;
 		};
 		function {
